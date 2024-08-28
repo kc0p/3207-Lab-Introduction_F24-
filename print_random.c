@@ -1,3 +1,5 @@
+#include <stddef.h>
+
 //Given Project code
 char* rand_string_alloc(size_t size)
 {
